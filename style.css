@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Young Serif', serif;
+    src: url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+};
+
+.products{
+    background: #F5D3AB;
+}
+h1 {
+    font-family:'Young Serif', serif;
+    line-height: 30px;
+}
+.bread {
+    display: inline-block;
+    width: 700px;
+    vertical-align: top;
+}
+.bread img {
+    width: 700px;
+    height: 500px; 
+}
+.sweets {
+    display: inline-block;
+    vertical-align: top;
+    width: 500px;
+}
+.sweets img {
+    width: 500px;
+    height: 500px ;
+}
+button {
+    background-color: #F5D3AB;
+    padding: 5px 30px;
+    text-align: center;
+}
+body {
+    background-color: #F5D3AB;
+    margin-top: 100px;
+    margin-left: 25px;
+    margin-right: 25px ;
+}
