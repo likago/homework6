@@ -2,15 +2,12 @@
     font-family: 'Young Serif', serif;
     src: url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
 };
-
-.products{
-    background: #F5D3AB;
-}
 h1 {
     font-family:'Young Serif', serif;
     line-height: 30px;
 }
 .bread {
+    border: 5px solid #F5D3AB;
     display: inline-block;
     width: 700px;
     vertical-align: top;
